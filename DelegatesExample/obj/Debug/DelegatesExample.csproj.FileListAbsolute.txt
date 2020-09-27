@@ -1,0 +1,7 @@
+C:\Users\lleka\source\repos\DelegatesExample\DelegatesExample\bin\Debug\DelegatesExample.exe.config
+C:\Users\lleka\source\repos\DelegatesExample\DelegatesExample\bin\Debug\DelegatesExample.exe
+C:\Users\lleka\source\repos\DelegatesExample\DelegatesExample\bin\Debug\DelegatesExample.pdb
+C:\Users\lleka\source\repos\DelegatesExample\DelegatesExample\obj\Debug\DelegatesExample.csproj.CoreCompileInputs.cache
+C:\Users\lleka\source\repos\DelegatesExample\DelegatesExample\obj\Debug\DelegatesExample.exe
+C:\Users\lleka\source\repos\DelegatesExample\DelegatesExample\obj\Debug\DelegatesExample.pdb
+C:\Users\lleka\source\repos\DelegatesExample\DelegatesExample\obj\Debug\DelegatesExample.csprojAssemblyReference.cache
